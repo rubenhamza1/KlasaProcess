@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasaProces", "KlasaProces.csproj", "{56515584-4907-466A-993E-BFD440A4597E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56515584-4907-466A-993E-BFD440A4597E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56515584-4907-466A-993E-BFD440A4597E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56515584-4907-466A-993E-BFD440A4597E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56515584-4907-466A-993E-BFD440A4597E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60F67F8-7AAC-4894-91ED-E33E322F9078}
+	EndGlobalSection
+EndGlobal
